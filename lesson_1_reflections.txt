@@ -18,3 +18,5 @@ I use git log first to find out the commit IDs and comments about changes, then 
 
 Absoultely, I can udo anything any changes.
 
+7 add something new here
+
