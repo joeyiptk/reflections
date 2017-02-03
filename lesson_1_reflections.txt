@@ -16,8 +16,8 @@ I use git log first to find out the commit IDs and comments about changes, then 
 
 6. How might using version control make your more confident to make changes that could break something?
 
-Absoultely, I can udo anything any changes.
-
 7 add something new here
 
 8 one more here
+
+10
