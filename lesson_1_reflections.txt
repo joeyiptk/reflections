@@ -14,10 +14,8 @@ I think it is smart.
 
 I use git log first to find out the commit IDs and comments about changes, then I use git diff to further view the changes between different version.
 
-6. How might using version control make your more confident to make changes that could break something?
-
 7 add something new here
 
 8 one more here
 
-10
+10 add new here
